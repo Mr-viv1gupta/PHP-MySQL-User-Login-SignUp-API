@@ -3,6 +3,13 @@
 This offer's step by step tutorial that will guide you to setup up Login + Signup API using Core PHP + MySQL following best practices with folders structure. It will guide you to create very simple Login & Signup Restful Webservices using PHP, without using any Framework or Library.
 
 
+
+
+
+
+
+
+
 File Structure
 We’ll use this folders & files structure for writing our Webservice.
 
@@ -25,6 +32,12 @@ api
 
 
 
+
+
+
+
+
+
 HOW TO RUN:
 
 I’m using XAMPP so I’m going to paste the “api” folder in the htdocs folder of XAMPP.
@@ -37,6 +50,12 @@ http://localhost/api/users/signup.php with Post parameters of username, & passwo
 and for login
 
 http://localhost/api/users/login.php?username=shehryar&password=12345
+
+
+
+
+
+
 
 
 NOTE:
