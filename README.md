@@ -1,6 +1,7 @@
 # PHP MySQL User Login SignUp API
 
 This offer's step by step tutorial that will guide you to setup up Login + Signup API using Core PHP + MySQL following best practices with folders structure.
+
 It will guide you to create very simple Login & Signup Restful Webservices using PHP, without using any Framework or Library.
 
 File Structure
